@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **AeroPure System**
 
-- 🌱 I’m currently learning **Java,DSA**
+- 🌱 I’m currently learning **Python,DSA**
 
 - 📫 How to reach me **vishalshivayach42074@gmail.com**
 
